@@ -1,0 +1,3 @@
+``` shell
+set DEBUG=star
+```
