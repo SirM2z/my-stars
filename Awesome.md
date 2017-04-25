@@ -4,9 +4,258 @@
 
 ## Contents
 
+- [nodejs工具](#nodejs工具)
 - [web框架](#web框架)
-- [素材](#素材)
+- [web素材](#web素材)
+- [幻灯片](#幻灯片)
+- [富文本](#富文本)
+- [科学上网](#科学上网)
+- [js工具](#js工具)
+- [Ajax](#Ajax)
+- [book](#book)
+- [vue](#vue)
+- [react](#react)
+- [video](#video)
+- [audio](#audio)
+- [微信机器人](#微信机器人)
+- [web布局](#web布局)
+- [language](#language)
+- [动画库](#动画库)
+- [绘图](#绘图)
+- [css工具](#css工具)
+- [常用数据](#常用数据)
+- [linux](#linux)
+- [DB](#DB)
+- [App](#App)
+- [编辑器](#编辑器)
+## nodejs工具
+- [Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
+- [node-schedule](https://github.com/node-schedule/node-schedule) - A cron-like and not-cron-like job scheduler for Node.
+- [debug](https://github.com/visionmedia/debug) - tiny node.js & browser debugging utility for your libraries and applications
+- [qrcode-terminal](https://github.com/gtanner/qrcode-terminal) - QRCodes in your terminal, cause thats hot.
+- [nodemailer](https://github.com/nodemailer/nodemailer) - ✉️ Send e-mails with Node.JS – easy as cake!
+- [nvm](https://github.com/creationix/nvm) - Node Version Manager - Simple bash script to manage multiple active node.js versions
+- [yarn](https://github.com/yarnpkg/yarn) - 📦🐈 Fast, reliable, and secure dependency management.
+- [nativefier](https://github.com/jiahaog/nativefier) - Make any web page a desktop application
+- [webpack-dashboard](https://github.com/FormidableLabs/webpack-dashboard) - A CLI dashboard for webpack dev server
+- [hyper](https://github.com/zeit/hyper) - A terminal built on web technologies
+- [electron](https://github.com/electron/electron) - Build cross platform desktop apps with JavaScript, HTML, and CSS
+- [ws](https://github.com/websockets/ws) - Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js
+- [tmt-workflow](https://github.com/weixin/tmt-workflow) - 一个基于 Gulp 高效、可定制的 Web 前端工作流
+- [generator-workflow](https://github.com/weixin/generator-workflow) - Yeoman generator for tmt-workflow
+- [pm2](https://github.com/Unitech/pm2) - Production process manager for Node.js apps with a built-in load balancer.
+- [zhihuspider](https://github.com/atonasting/zhihuspider) - 网站「看知乎」的爬虫
 ## web框架
-- [egg](https://api.github.com/repos/eggjs/egg) - Born to build better enterprise frameworks and apps with Node.js & Koa
-## 素材
-- [SuperTinySocialIcons](https://api.github.com/repos/edent/SuperTinySocialIcons) - Under 1KB each! Super Tiny Social Icons are miniscule SVG versions of your favourite logos
+- [egg](https://github.com/eggjs/egg) - Born to build better enterprise frameworks and apps with Node.js & Koa
+- [beego](https://github.com/astaxie/beego) - beego is an open-source, high-performance web framework for the Go programming language.
+- [botpress](https://github.com/botpress/botpress) - 🤖  The only sane way to build great bots. 👉
+- [docsify](https://github.com/QingWei-Li/docsify) - 🃏 A magical documentation site generator.
+- [weex](https://github.com/alibaba/weex) - A framework for building Mobile cross-platform UI
+- [mmf-blog-api](https://github.com/lincenying/mmf-blog-api) - mmf-blog api server
+- [hexo-theme-even](https://github.com/ahonn/hexo-theme-even) - :rocket:  A super simple theme for Hexo  
+- [hexo-theme-yilia](https://github.com/litten/hexo-theme-yilia) - 一个简洁优雅的hexo主题  A simple and elegant theme for hexo.
+- [slate](https://github.com/lord/slate) - Beautiful static documentation for your API
+- [meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
+- [firekylin](https://github.com/firekylin/firekylin) - A Simple & Fast Node.js Blogging Platform Base On ThinkJS & React & ES2015+
+- [backbone](https://github.com/jashkenas/backbone) - Give your JS App some Backbone with Models, Views, Collections, and Events
+- [express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
+- [koa](https://github.com/koajs/koa) - Expressive middleware for node.js using ES2017 async functions
+- [hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
+## web素材
+- [SuperTinySocialIcons](https://github.com/edent/SuperTinySocialIcons) - Under 1KB each! Super Tiny Social Icons are miniscule SVG versions of your favourite logos
+- [bttn.css](https://github.com/ganapativs/bttn.css) - Awesome buttons for awesome projects!
+- [mdui](https://github.com/zdhxiong/mdui) - MDUI 是一个基于 Material Design 的前端框架。
+- [hue](https://github.com/evankarageorgos/hue) - A huge pack of 49 photorealistic gradients that you can use as content backdrops.
+- [material-components](https://github.com/appcomponents/material-components) - null
+- [materialize](https://github.com/Dogfalo/materialize) - Materialize, a CSS Framework based on Material Design
+- [layui](https://github.com/sentsin/layui) - 采用自身模块规范编写的前端UI框架，遵循原生HTML/CSS/JS的书写形式，极低门槛，拿来即用。
+- [particles.js](https://github.com/VincentGarreau/particles.js) - A lightweight JavaScript library for creating particles
+- [canvas-nest.js](https://github.com/hustcc/canvas-nest.js) - :cancer: Interactive Particle / Nest System With JavaScript and Canvas, Do not Depends on jQuery. 
+- [bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
+- [SingleDivProject](https://github.com/ManrajGrover/SingleDivProject) - One <div>. Many possibilities.
+- [HEAD](https://github.com/joshbuchea/HEAD) - A list of everything that could go in the <head> of your document
+- [source-code-pro](https://github.com/adobe-fonts/source-code-pro) - Monospaced font family for user interface and coding environments
+- [Tearable-Cloth](https://github.com/dissimulate/Tearable-Cloth) - A tearable cloth simulation using vertlet integration.
+- [weui](https://github.com/weui/weui) - A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications.
+- [spin.js](https://github.com/fgnass/spin.js) - A spinning activity indicator
+## 幻灯片
+- [zuck.js](https://github.com/ramon82/zuck.js) - A javascript library that lets you add stories EVERYWHERE.
+- [eagle.js](https://github.com/Zulko/eagle.js) - A hackable slideshow framework built with Vue.js
+- [PgwSlideshow](https://github.com/Pagawa/PgwSlideshow) - Responsive Slideshow / Gallery / Carousel plugin for jQuery and Zepto
+- [reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
+- [swipe](https://github.com/lyfeyaj/swipe) - Swipe is the most accurate touch slider. Support both React and Angular.
+- [lightgallery.js](https://github.com/sachinchoolur/lightgallery.js) - Full featured JavaScript image & video gallery. No dependencies
+- [fullPage.js](https://github.com/alvarotrigo/fullPage.js) - fullPage plugin by Alvaro Trigo. Create full screen pages fast and simple
+## 富文本
+- [slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors.
+- [wangEditor](https://github.com/wangfupeng1988/wangEditor) - wangEditor —— 轻量级web富文本框
+- [quill](https://github.com/quilljs/quill) - Your powerful, rich text editor
+## 科学上网
+- [shadowsocks_install](https://github.com/teddysun/shadowsocks_install) - Auto Install Shadowsocks Server for CentOS/Debian/Ubuntu
+- [shadowsocks-manager](https://github.com/shadowsocks/shadowsocks-manager) - A shadowsocks manager tool for multi user and traffic control.
+- [kcptun](https://github.com/xtaci/kcptun) - A Secure Tunnel Based On KCP with N:M Multiplexing
+- [shadowsocksr-csharp](https://github.com/shadowsocksr/shadowsocksr-csharp) - ShadowsocksR for Windows
+- [shadowsocks](https://github.com/shadowsocks/shadowsocks) - null
+- [shadowsocks-qt5](https://github.com/shadowsocks/shadowsocks-qt5) - A cross-platform shadowsocks GUI client
+- [genpac](https://github.com/JinnLynn/genpac) - PAC file Generator,  working with gfwlist, support custom rules.
+- [shadowsocks-rss](https://github.com/breakwa11/shadowsocks-rss) - ShadowsocksR update rss, SSR organization https://github.com/shadowsocksr
+- [shadowsocks](https://github.com/mengskysama/shadowsocks) - A fast tunnel proxy that helps you bypass firewalls
+## js工具
+- [intro.js](https://github.com/usablica/intro.js) - A better way for new feature introduction and step-by-step users guide for your website and project.
+- [moveTo](https://github.com/hsnaydd/moveTo) - A lightweight scroll animation javascript library without any dependency 
+- [nprogress](https://github.com/rstacruz/nprogress) - For slim progress bars like on YouTube, Medium, etc
+- [GPU-Fluid-Experiments](https://github.com/haxiomic/GPU-Fluid-Experiments) - null
+- [localResizeIMG](https://github.com/think2011/localResizeIMG) - 前端本地客户端压缩图片，兼容IOS，Android，PC、自动按需加载文件 
+- [RxJS](https://github.com/Reactive-Extensions/RxJS) - The Reactive Extensions for JavaScript
+- [async-validator](https://github.com/yiminghe/async-validator) - validate form asynchronous
+- [Shadowin](https://github.com/HeddaZ/Shadowin) - Shadowin 影窗浏览器，支持老板键的透明浏览器外框；配合 ShadowStock 影子证券，是上班看股、个性化盯盘神器。
+- [postcss](https://github.com/postcss/postcss) - Transforming styles with JS plugins
+- [es6-promise](https://github.com/stefanpenner/es6-promise) - A polyfill for ES6-style Promises
+- [flatpickr](https://github.com/chmln/flatpickr) - lightweight and powerful datetimepicker with no dependencies
+- [tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for 62 Languages 📖🎉🖥
+- [clipboard.js](https://github.com/zenorocha/clipboard.js) - :scissors: Modern copy to clipboard. No Flash. Just 3kb gzipped :clipboard:
+- [cookies.js](https://github.com/franciscop/cookies.js) - 🍪 Interactive and easy cookies from your browser
+- [timeago.js](https://github.com/hustcc/timeago.js) - :clock8: :hourglass: timeago.js is a tiny(~2.0kb) library used to format date with `*** time ago` statement. eg: '3 hours ago'. No dependency & localization & tiny.
+- [in-view](https://github.com/camwiegert/in-view) - Get notified when a DOM element enters or exits the viewport. :eyes:
+- [image-diff](https://github.com/uber-archive/image-diff) - Create image differential between two images
+- [dragula](https://github.com/bevacqua/dragula) - :ok_hand: Drag and drop so simple it hurts
+- [sweetalert](https://github.com/t4t5/sweetalert) - A beautiful replacement for JavaScript's "alert"
+- [moment](https://github.com/moment/moment) - Parse, validate, manipulate, and display dates in javascript.
+- [underscore](https://github.com/jashkenas/underscore) - JavaScript's utility _ belt
+- [places](https://github.com/algolia/places) - :globe_with_meridians: Turn any <input> into an address autocomplete
+- [microlight](https://github.com/asvd/microlight) - highlights code in any programming language
+- [iscroll](https://github.com/cubiq/iscroll) - Smooth scrolling for the web
+- [jQuery-File-Upload](https://github.com/blueimp/jQuery-File-Upload) - File Upload widget with multiple file selection, drag&drop support, progress bar, validation and preview images, audio and video for jQuery. Supports cross-domain, chunked and resumable file uploads. Works with any server-side platform (Google App Engine, PHP, Python, Ruby on Rails, Java, etc.) that supports standard HTML form file uploads.
+- [feature.js](https://github.com/viljamis/feature.js) - Feature.js is a fast, simple and lightweight browser feature detection library in 1kb.
+- [noty](https://github.com/needim/noty) - NOTY is a notification library that makes it easy to create alert - success - error - warning - information - confirmation messages as an alternative the standard alert dialog.
+- [template.js](https://github.com/yanhaijing/template.js) - template.js 一款javascript模板引擎，简单，好用
+## Ajax
+- [unfetch](https://github.com/developit/unfetch) - 🐶 Bare minimum fetch polyfill in 500 bytes.
+- [catta](https://github.com/Joker-Jelly/catta) - Simple promise base request client for browser
+- [axios](https://github.com/mzabriskie/axios) - Promise based HTTP client for the browser and node.js
+- [fetch](https://github.com/github/fetch) - A window.fetch JavaScript polyfill.
+## book
+- [You-Dont-Need-jQuery](https://github.com/oneuijs/You-Dont-Need-jQuery) - Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2017
+- [css-protips](https://github.com/AllThingsSmitty/css-protips) - A collection of tips to help take your CSS skills pro
+- [koa2-note](https://github.com/chenshenhai/koa2-note) - 《koa2进阶学习笔记》持续更新...
+- [node-interview](https://github.com/ElemeFE/node-interview) - How to pass the Node.js interview of ElemeFE.
+- [build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) - A golang ebook intro how to build a web with golang
+- [interview-questions-in-javascript](https://github.com/kennymkchan/interview-questions-in-javascript) - A mostly reasonable collection of technical software development interview questions solved in Javascript
+- [JS-Sorting-Algorithm](https://github.com/hustcc/JS-Sorting-Algorithm) - 一本关于排序算法的 GitBook 在线书籍 《十大经典排序算法》，使用 JavaScript & Python & Go 实现。
+- [typescript-tutorial](https://github.com/xcatliu/typescript-tutorial) - TypeScript 入门教程
+- [clean-code-js](https://github.com/alivebao/clean-code-js) - JavaScript风格指南
+- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - :bathtub: Clean Code concepts adapted for JavaScript
+- [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries and software.
+- [javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
+- [machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) - A complete daily plan for studying to become a machine learning engineer.
+- [coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
+- [jstraining](https://github.com/ruanyf/jstraining) - 全栈工程师培训材料
+- [500lines](https://github.com/aosabook/500lines) - 500 Lines or Less
+- [FlappyLearning](https://github.com/xviniette/FlappyLearning) - Program learning to play Flappy Bird by machine learning (Neuroevolution)
+- [underscore-analysis](https://github.com/hanzichi/underscore-analysis) -  Underscore.js 源码解读 & 系列文章（完 :heavy_exclamation_mark:）
+- [js-stack-from-scratch](https://github.com/verekia/js-stack-from-scratch) - 🛠️⚡ Step-by-step tutorial to build a modern JavaScript stack.
+- [The-Art-Of-Programming-By-July](https://github.com/julycoding/The-Art-Of-Programming-By-July) - 本项目曾冲到全球第一，干货集锦见本页面最底部，另完整精致的纸质版《编程之法：面试和算法心得》已在京东/当当上销售
+- [the-little-mongodb-book-cn](https://github.com/justinyhuang/the-little-mongodb-book-cn) - The Little MongoDB Book 中文版
+- [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
+- [reactjs101](https://github.com/kdchang/reactjs101) - 從零開始學 ReactJS（ReactJS 101）是一本希望讓初學者一看就懂的 ReactJS 中文入門教學書，由淺入深學習 ReactJS 生態系 (Flux, Redux, React Router, ImmutableJS, React Native, Relay/GraphQL etc.)。
+- [You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS is powerful, you can do a lot of things without JS.
+- [security-guide-for-developers](https://github.com/FallibleInc/security-guide-for-developers) - Security Guide for Developers (实用性开发人员安全须知)
+- [wooyun_public](https://github.com/hanc00l/wooyun_public) - 乌云公开漏洞、知识库爬虫和搜索   crawl and search for wooyun.org public bug(vulnerability) and drops
+- [free-programming-books](https://github.com/vhf/free-programming-books) - :books: Freely available programming books
+- [N-blog](https://github.com/nswbmw/N-blog) - 一起学 Node.js
+- [alloyteam.github.com](https://github.com/AlloyTeam/alloyteam.github.com) - 腾讯 AlloyTeam 开源项目官网 - 我们的愿景: 成为业界卓越的Web团队！
+## vue
+- [vue-infinite-loading](https://github.com/PeachScript/vue-infinite-loading) - An infinite scroll plugin for Vue.js 1.0 & Vue.js 2.0.
+- [vue-scroller](https://github.com/wangdahoo/vue-scroller) - Scroller Component for Vue.js
+- [vue-infinite-scroll](https://github.com/ElemeFE/vue-infinite-scroll) - An infinite scroll directive for vue.js.
+- [webpack](https://github.com/vuejs-templates/webpack) - A full-featured Webpack + vue-loader setup with hot reload, linting, testing & css extraction.
+- [element](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web
+- [VueCircleMenu](https://github.com/OYsun/VueCircleMenu) - :rabbit:A beautiful circle menu powered by Vue.js
+- [vue-material](https://github.com/marcosmoura/vue-material) - Material design for Vue.js
+- [vue2-all-test](https://github.com/SirM2z/vue2-all-test) - vue2  vue-router  vuex  axios 全家桶
+- [vue-google-maps](https://github.com/xkjyeah/vue-google-maps) - Google maps component for vue with 2-way data binding
+- [vuetify](https://github.com/vuetifyjs/vuetify) - Material Component Framework for Vue.js 2
+- [nuxt.js](https://github.com/nuxt/nuxt.js) - Framework for server-rendered Vue.js applications.
+- [mmf-blog-vue2-ssr](https://github.com/lincenying/mmf-blog-vue2-ssr) - mmf-blog-vue2 ssr(服务端渲染)版
+- [vuex-router-sync](https://github.com/vuejs/vuex-router-sync) - Effortlessly keep vue-router and vuex store in sync.
+- [vue-hackernews-2.0](https://github.com/vuejs/vue-hackernews-2.0) - HackerNews clone built with Vue 2.0, vue-router & vuex, with server-side rendering
+- [vue-hackernews](https://github.com/vuejs/vue-hackernews) - HackerNews clone with Vue.js
+- [iview](https://github.com/iview/iview) - A high quality UI Toolkit built on Vue.js
+- [vue-swiper](https://github.com/weilao/vue-swiper) - Swiper component. Easy to use.
+- [vux](https://github.com/airyland/vux) - Vue UI Components based on WeUI
+- [vue-router](https://github.com/vuejs/vue-router) - The official router for Vue.js.
+- [vuex](https://github.com/vuejs/vuex) - Centralized State Management for Vue.js.
+- [vue](https://github.com/vuejs/vue) - A progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+- [awesome-vue](https://github.com/vuejs/awesome-vue) - A curated list of awesome things related to Vue.js
+## react
+- [create-react-native-app](https://github.com/react-community/create-react-native-app) - Create a React Native app on any OS with no build config.
+- [react-tetris](https://github.com/chvin/react-tetris) - Use React, Redux, Immutable to code Tetris. 🎮
+- [dva](https://github.com/dvajs/dva) - 🌱 React and redux based, lightweight and elm-style framework. (Inspired by elm and choo)
+- [redux-devtools-extension](https://github.com/zalmoxisus/redux-devtools-extension) - Redux DevTools extension.
+- [react-color](https://github.com/casesandberg/react-color) - :art: Color Pickers from Sketch, Photoshop, Chrome, Github, Twitter & more
+- [awesome-react-components](https://github.com/brillout/awesome-react-components) - Catalog of React Components & Libraries
+- [create-react-app](https://github.com/facebookincubator/create-react-app) - Create React apps with no build configuration.
+- [immutable-js](https://github.com/facebook/immutable-js) - Immutable persistent data collections for Javascript which increase efficiency and simplicity.
+- [react-starter-kit](https://github.com/kriasoft/react-starter-kit) - React Starter Kit — isomorphic web app boilerplate (Node.js, Express, GraphQL, React.js, Babel, PostCSS, Webpack, Browsersync)
+- [react-input-enhancements](https://github.com/alexkuz/react-input-enhancements) - Set of enhancements for input control
+- [react-boilerplate](https://github.com/react-boilerplate/react-boilerplate) - :fire: A highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices.
+- [redux](https://github.com/reactjs/redux) - Predictable state container for JavaScript apps
+- [ant-design](https://github.com/ant-design/ant-design) - 🐜 A UI Design Language
+- [react-virtualized](https://github.com/bvaughn/react-virtualized) - React components for efficiently rendering large lists and tabular data
+- [awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem.
+- [react-ui](https://github.com/Lobos/react-ui) - A collection of components for React, base on bootstrap 4.0. 
+- [react-router](https://github.com/ReactTraining/react-router) - Declarative routing for React
+- [react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+## video
+- [plyr](https://github.com/Selz/plyr) - A simple HTML5, YouTube and Vimeo player
+- [flv.js](https://github.com/Bilibili/flv.js) - HTML5 FLV Player
+- [video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 & Flash video player
+## audio
+- [roll-call](https://github.com/mikeal/roll-call) - 📞 Free and reliable audio calls for everyone w/ browser p2p.
+## 微信机器人
+- [wxpy](https://github.com/youfou/wxpy) - 微信机器人 / 优雅的微信个人号API
+- [WebWechat](https://github.com/lbbniu/WebWechat) - 网页微信PHP登录的实现
+## web布局
+- [lib-flexible](https://github.com/amfe/lib-flexible) - 可伸缩布局方案
+- [postcss-grid-kiss](https://github.com/sylvainpolletvillard/postcss-grid-kiss) - A PostCSS plugin to keep CSS grids stupidly simple
+## language
+- [go](https://github.com/golang/go) - The Go programming language
+## 动画库
+- [dynamics.js](https://github.com/michaelvillar/dynamics.js) - Javascript library to create physics-based animations
+- [nightmare](https://github.com/segmentio/nightmare) - A high-level browser automation library.
+- [velocity](https://github.com/julianshapiro/velocity) - Accelerated JavaScript animation.
+- [radiobox.css](https://github.com/720kb/radiobox.css) - :radio_button: Tiny set of pure CSS animations for your radio inputs. https://720kb.github.io/radiobox.css/
+- [granim.js](https://github.com/sarcadass/granim.js) - Create fluid and interactive gradients animations with this small (< 10 kB) js library.
+- [Hover](https://github.com/IanLunn/Hover) - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.
+## 绘图
+- [d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
+- [awesome-echarts](https://github.com/ecomfe/awesome-echarts) - Awesome list of echarts
+- [g9](https://github.com/bijection/g9) - Automatically Interactive Graphics 🖼✨💯
+- [chartist-js](https://github.com/gionkunz/chartist-js) - Simple responsive charts
+- [echarts](https://github.com/ecomfe/echarts) - A powerful, interactive charting and visualization library for browser
+## css工具
+- [autoprefixer](https://github.com/postcss/autoprefixer) -  Parse CSS and add vendor prefixes to rules by Can I Use
+- [text-spinners](https://github.com/tawian/text-spinners) - Pure text, CSS only, font independent, inline loading indicators
+- [mobi.css](https://github.com/mobi-css/mobi.css) - A lightweight, scalable, mobile-first css framework
+- [anime](https://github.com/juliangarnier/anime) - JavaScript Animation Engine
+- [animate.css](https://github.com/daneden/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
+## 常用数据
+- [country-list](https://github.com/umpirsky/country-list) - :globe_with_meridians: List of all countries with names and ISO 3166-1 codes in all languages and data formats.
+- [awesome](https://github.com/sindresorhus/awesome) - :sunglasses: Curated list of awesome lists
+- [GB2260](https://github.com/cn/GB2260) - 中华人民共和国国家标准 GB/T 2260 行政区划代码
+## linux
+- [iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 150 terminal color schemes/themes for iTerm/iTerm2 (with ports to Terminal, Konsole, PuTTY, Xresources, XRDB, and Terminator)
+- [moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+- [awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This repo is a collection of awesome Mac applications and tools for developers and designers.
+- [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - A delightful community-driven (with 1,000+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+## DB
+- [mongoose](https://github.com/Automattic/mongoose) - MongoDB object modeling designed to work in an asynchronous environment.
+## App
+- [ramme](https://github.com/terkelg/ramme) - 📷  Unofficial Instagram Desktop App
+- [f8app](https://github.com/fbsamples/f8app) - Source code of the official F8 app of 2016, powered by React Native and other Facebook open source projects.
+- [nodeclub](https://github.com/cnodejs/nodeclub) - :baby_chick:Nodeclub 是使用 Node.js 和 MongoDB 开发的社区系统
+## 编辑器
+- [vscode](https://github.com/Microsoft/vscode) - Visual Studio Code
+- [LocalizedMenu](https://github.com/zam1024t/LocalizedMenu) - Localize Tool & Localized Menu for Sublime Text 2/3 End User. 支持简体中文/繁体中文/其它任意语言
+- [material-theme](https://github.com/equinusocio/material-theme) - Material Theme, the most epic theme for Sublime Text 3 by Mattia Astorino

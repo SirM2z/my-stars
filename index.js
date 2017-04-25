@@ -27,7 +27,7 @@ var AwesomeContent = ''
 
 async function main () {
   debug('获取用户名-开始')
-  getUserName()
+  await getUserName()
   debug('获取用户名-结束')
 
   debug('获取数据-开始')
@@ -35,7 +35,7 @@ async function main () {
   debug('获取数据-结束')
 
   debug('分门别类-开始')
-  sort()
+  await sort()
   debug('分门别类-结束')
 
   debug('拼装内容-开始')
@@ -47,6 +47,7 @@ async function main () {
   debug('写入文件-结束')
 }
 
+// 获取用户名
 async function getUserName () {
   let answers
   try {
@@ -60,7 +61,7 @@ async function getUserName () {
   }
   username = answers.name
 }
-
+// 获取数据
 async function getStars () {
   let i = 1
   while (currentTotal === per_page) {
@@ -78,16 +79,16 @@ async function getStars () {
     i++
   }
 }
-
-function sort () {
+// 分门别类
+async function sort () {
   for (let i = 0, len = starArray.length; i < len; i++) {
     console.log("已有分类如下：")
     console.log(chalk.green(contentsList.join(',')))
     console.log("当前项目介绍：")
     console.log(chalk.yellow('名称：') + chalk.green(starArray[i].name))
     console.log(chalk.yellow('描述：') + chalk.green(starArray[i].description))
-    console.log(chalk.yellow('地址：') + chalk.green(starArray[i].url))
-    opn(starArray[i].url)
+    console.log(chalk.yellow('地址：') + chalk.green(starArray[i].html_url))
+    opn(starArray[i].html_url)
     let answers
     try {
       answers = await inquirer.prompt([{
@@ -110,7 +111,7 @@ function sort () {
         throw error
       }
       contentsList.push(answers.label)
-      itemList[answers.label] = [`- [${starArray[i].name}](${starArray[i].url}) - ${starArray[i].description}\n`]
+      itemList[answers.label] = [`- [${starArray[i].name}](${starArray[i].html_url}) - ${starArray[i].description}\n`]
     } else {
       let answers
       try {
@@ -123,11 +124,11 @@ function sort () {
       } catch (error) {
         throw error
       }
-      itemList[answers.chose].push(`- [${starArray[i].name}](${starArray[i].url}) - ${starArray[i].description}\n`)
+      itemList[answers.chose].push(`- [${starArray[i].name}](${starArray[i].html_url}) - ${starArray[i].description}\n`)
     }
   }
 }
-
+// 拼装内容
 function build () {
   for (let i = 0, len = contentsList.length; i < len; i++) {
     Awesome += `- [${contentsList[i]}](#${contentsList[i]})\n`
@@ -141,7 +142,7 @@ function build () {
   }
   Awesome += AwesomeContent
 }
-
+// 写入文件
 function writeMD () {
   fs.open('Awesome.md', 'w', (e, fd) => {
     if (e) throw e
