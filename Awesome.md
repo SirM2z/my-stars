@@ -219,6 +219,7 @@
 ## web布局
 - [lib-flexible](https://github.com/amfe/lib-flexible) - 可伸缩布局方案
 - [postcss-grid-kiss](https://github.com/sylvainpolletvillard/postcss-grid-kiss) - A PostCSS plugin to keep CSS grids stupidly simple
+- [sizzy](https://github.com/kitze/sizzy) - A tool for developing responsive websites crazy-fast(便携查看响应式)
 ## language
 - [go](https://github.com/golang/go) - The Go programming language
 ## 动画库
