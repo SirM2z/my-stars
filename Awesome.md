@@ -260,3 +260,4 @@
 - [vscode](https://github.com/Microsoft/vscode) - Visual Studio Code
 - [LocalizedMenu](https://github.com/zam1024t/LocalizedMenu) - Localize Tool & Localized Menu for Sublime Text 2/3 End User. 支持简体中文/繁体中文/其它任意语言
 - [material-theme](https://github.com/equinusocio/material-theme) - Material Theme, the most epic theme for Sublime Text 3 by Mattia Astorino
+- [vetur](https://github.com/octref/vetur) - Vue tooling for VSCode.
