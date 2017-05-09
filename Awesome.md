@@ -28,6 +28,7 @@
 - [DB](#DB)
 - [App](#App)
 - [编辑器](#编辑器)
+- [浏览器插件](#浏览器插件)
 ## nodejs工具
 - [Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
 - [node-schedule](https://github.com/node-schedule/node-schedule) - A cron-like and not-cron-like job scheduler for Node.
@@ -261,3 +262,5 @@
 - [LocalizedMenu](https://github.com/zam1024t/LocalizedMenu) - Localize Tool & Localized Menu for Sublime Text 2/3 End User. 支持简体中文/繁体中文/其它任意语言
 - [material-theme](https://github.com/equinusocio/material-theme) - Material Theme, the most epic theme for Sublime Text 3 by Mattia Astorino
 - [vetur](https://github.com/octref/vetur) - Vue tooling for VSCode.
+## 浏览器插件
+- [baidu-nolimit](https://github.com/cloudroc/baidu-nolimit) - 百度云大文件下载破解,chrome插件
