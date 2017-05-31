@@ -172,6 +172,7 @@
 - [vue-infinite-scroll](https://github.com/ElemeFE/vue-infinite-scroll) - An infinite scroll directive for vue.js.
 - [webpack](https://github.com/vuejs-templates/webpack) - A full-featured Webpack + vue-loader setup with hot reload, linting, testing & css extraction.
 - [element](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web
+- [mint-ui](https://github.com/ElemeFE/mint-ui) - Mobile UI elements for Vue.js
 - [VueCircleMenu](https://github.com/OYsun/VueCircleMenu) - :rabbit:A beautiful circle menu powered by Vue.js
 - [vue-material](https://github.com/marcosmoura/vue-material) - Material design for Vue.js
 - [vue2-all-test](https://github.com/SirM2z/vue2-all-test) - vue2  vue-router  vuex  axios 全家桶
