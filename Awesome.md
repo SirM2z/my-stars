@@ -265,3 +265,4 @@
 - [vetur](https://github.com/octref/vetur) - Vue tooling for VSCode.
 ## 浏览器插件
 - [baidu-nolimit](https://github.com/cloudroc/baidu-nolimit) - 百度云大文件下载破解,chrome插件
+- [listen1_chrome_extension](https://github.com/listen1/listen1_chrome_extension) - one for all free music in china (chrome extension, also works for firefox)
