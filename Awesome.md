@@ -190,6 +190,7 @@
 - [vuex](https://github.com/vuejs/vuex) - Centralized State Management for Vue.js.
 - [vue](https://github.com/vuejs/vue) - A progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [awesome-vue](https://github.com/vuejs/awesome-vue) - A curated list of awesome things related to Vue.js
+- [vue-resource](https://github.com/pagekit/vue-resource/tree/master) - The HTTP client for Vue.js
 ## react
 - [create-react-native-app](https://github.com/react-community/create-react-native-app) - Create a React Native app on any OS with no build config.
 - [react-tetris](https://github.com/chvin/react-tetris) - Use React, Redux, Immutable to code Tetris. 🎮
