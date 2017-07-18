@@ -47,6 +47,7 @@
 - [pm2](https://github.com/Unitech/pm2) - Production process manager for Node.js apps with a built-in load balancer.
 - [zhihuspider](https://github.com/atonasting/zhihuspider) - 网站「看知乎」的爬虫
 - [gka](https://github.com/joeyguo/gka) - 一款高效、高性能的帧动画生成工具
+- [p2pspider](https://github.com/fanpei91/p2pspider) - DHT Spider + BitTorrent Client = P2P Spider
 ## web框架
 - [egg](https://github.com/eggjs/egg) - Born to build better enterprise frameworks and apps with Node.js & Koa
 - [beego](https://github.com/astaxie/beego) - beego is an open-source, high-performance web framework for the Go programming language.
