@@ -46,6 +46,7 @@
 - [generator-workflow](https://github.com/weixin/generator-workflow) - Yeoman generator for tmt-workflow
 - [pm2](https://github.com/Unitech/pm2) - Production process manager for Node.js apps with a built-in load balancer.
 - [zhihuspider](https://github.com/atonasting/zhihuspider) - 网站「看知乎」的爬虫
+- [zhihuspider](https://github.com/atonasting/zhihuspider) - 网站「看知乎」的爬虫
 ## web框架
 - [egg](https://github.com/eggjs/egg) - Born to build better enterprise frameworks and apps with Node.js & Koa
 - [beego](https://github.com/astaxie/beego) - beego is an open-source, high-performance web framework for the Go programming language.
@@ -61,7 +62,7 @@
 - [backbone](https://github.com/jashkenas/backbone) - Give your JS App some Backbone with Models, Views, Collections, and Events
 - [express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
 - [koa](https://github.com/koajs/koa) - Expressive middleware for node.js using ES2017 async functions
-- [hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
+- [gka](https://github.com/joeyguo/gka) - 一款高效、高性能的帧动画生成工具
 ## web素材
 - [SuperTinySocialIcons](https://github.com/edent/SuperTinySocialIcons) - Under 1KB each! Super Tiny Social Icons are miniscule SVG versions of your favourite logos
 - [bttn.css](https://github.com/ganapativs/bttn.css) - Awesome buttons for awesome projects!
