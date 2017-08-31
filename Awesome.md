@@ -75,7 +75,7 @@
 - [particles.js](https://github.com/VincentGarreau/particles.js) - A lightweight JavaScript library for creating particles
 - [canvas-nest.js](https://github.com/hustcc/canvas-nest.js) - :cancer: Interactive Particle / Nest System With JavaScript and Canvas, Do not Depends on jQuery. 
 - [bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
-- [SingleDivProject](https://github.com/ManrajGrover/SingleDivProject) - One <div>. Many possibilities.
+- [SingleDivProject](https://github.com/ManrajGrover/SingleDivProject) - One &lt;div&gt;. Many possibilities.
 - [HEAD](https://github.com/joshbuchea/HEAD) - A list of everything that could go in the <head> of your document
 - [source-code-pro](https://github.com/adobe-fonts/source-code-pro) - Monospaced font family for user interface and coding environments
 - [Tearable-Cloth](https://github.com/dissimulate/Tearable-Cloth) - A tearable cloth simulation using vertlet integration.
