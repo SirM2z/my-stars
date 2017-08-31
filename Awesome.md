@@ -110,6 +110,7 @@
 - [nprogress](https://github.com/rstacruz/nprogress) - For slim progress bars like on YouTube, Medium, etc
 - [GPU-Fluid-Experiments](https://github.com/haxiomic/GPU-Fluid-Experiments) - null
 - [localResizeIMG](https://github.com/think2011/localResizeIMG) - 前端本地客户端压缩图片，兼容IOS，Android，PC、自动按需加载文件 
+- [compress.js](https://github.com/alextanhongpin/compress.js) - A simple JavaScript based client-side image compression algorithm
 - [RxJS](https://github.com/Reactive-Extensions/RxJS) - The Reactive Extensions for JavaScript
 - [async-validator](https://github.com/yiminghe/async-validator) - validate form asynchronous
 - [Shadowin](https://github.com/HeddaZ/Shadowin) - Shadowin 影窗浏览器，支持老板键的透明浏览器外框；配合 ShadowStock 影子证券，是上班看股、个性化盯盘神器。
