@@ -136,6 +136,7 @@
 - [template.js](https://github.com/yanhaijing/template.js) - template.js 一款javascript模板引擎，简单，好用
 - [webpack](https://github.com/vuejs-templates/webpack) - A full-featured Webpack + vue-loader setup with hot reload, linting, testing & css extraction.
 - [rollup](https://github.com/rollup/rollup) - Next-generation ES6 module bundler http://rollupjs.org
+- [minirefresh](https://github.com/minirefresh/minirefresh) - 优雅的H5下拉刷新。零依赖，高性能，多主题，易拓展。(A Graceful HTML5 Drop-Down-Refresh Plugin. ) https://minirefresh.github.io/
 ## Ajax
 - [unfetch](https://github.com/developit/unfetch) - 🐶 Bare minimum fetch polyfill in 500 bytes.
 - [catta](https://github.com/Joker-Jelly/catta) - Simple promise base request client for browser
