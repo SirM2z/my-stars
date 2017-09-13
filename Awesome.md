@@ -90,6 +90,7 @@
 - [swipe](https://github.com/lyfeyaj/swipe) - Swipe is the most accurate touch slider. Support both React and Angular.
 - [lightgallery.js](https://github.com/sachinchoolur/lightgallery.js) - Full featured JavaScript image & video gallery. No dependencies
 - [fullPage.js](https://github.com/alvarotrigo/fullPage.js) - fullPage plugin by Alvaro Trigo. Create full screen pages fast and simple
+- [better-scroll](https://github.com/ustbhuangyi/better-scroll) - inspired by iscroll, and it has a better scroll perfermance https://ustbhuangyi.github.io/better-scroll/#/
 ## 富文本
 - [slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors.
 - [wangEditor](https://github.com/wangfupeng1988/wangEditor) - wangEditor —— 轻量级web富文本框
