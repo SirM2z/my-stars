@@ -65,6 +65,7 @@
 - [koa](https://github.com/koajs/koa) - Expressive middleware for node.js using ES2017 async functions
 - [hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
 - [thinkjs](https://github.com/thinkjs/thinkjs) - Use full ES2015+ features to develop Node.js applications http://www.thinkjs.org/
+- [best-resume-ever](https://github.com/salomonelli/best-resume-ever) - 👔 💼 Build fast 🚀 and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.https://salomonelli.github.io/best-resume-ever/#/
 ## web素材
 - [SuperTinySocialIcons](https://github.com/edent/SuperTinySocialIcons) - Under 1KB each! Super Tiny Social Icons are miniscule SVG versions of your favourite logos
 - [bttn.css](https://github.com/ganapativs/bttn.css) - Awesome buttons for awesome projects!
