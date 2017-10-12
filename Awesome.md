@@ -107,6 +107,7 @@
 - [shadowsocks-rss](https://github.com/breakwa11/shadowsocks-rss) - ShadowsocksR update rss, SSR organization https://github.com/shadowsocksr
 - [shadowsocks](https://github.com/mengskysama/shadowsocks) - A fast tunnel proxy that helps you bypass firewalls
 - [Surge_rules](https://github.com/tudi1909/Surge_rules) - Surge 规则
+- [forum](https://github.com/getlantern/forum) - 蓝灯(Lantern)官方论坛
 ## js工具
 - [intro.js](https://github.com/usablica/intro.js) - A better way for new feature introduction and step-by-step users guide for your website and project.
 - [moveTo](https://github.com/hsnaydd/moveTo) - A lightweight scroll animation javascript library without any dependency 
