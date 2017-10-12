@@ -142,6 +142,7 @@
 - [rollup](https://github.com/rollup/rollup) - Next-generation ES6 module bundler http://rollupjs.org
 - [minirefresh](https://github.com/minirefresh/minirefresh) - 优雅的H5下拉刷新。零依赖，高性能，多主题，易拓展。(A Graceful HTML5 Drop-Down-Refresh Plugin. ) https://minirefresh.github.io/
 - [lozad.js](https://github.com/ApoorvSaxena/lozad.js) - Highly performant, light ~0.5kb and configurable lazy loader in pure JS with no dependencies for images, iframes and more https://apoorv.pro/lozad.js/demo/
+- [draggable](https://github.com/Shopify/draggable) - The JavaScript Drag & Drop library your grandparents warned you about. https://shopify.github.io/draggable/
 ## Ajax
 - [unfetch](https://github.com/developit/unfetch) - 🐶 Bare minimum fetch polyfill in 500 bytes.
 - [catta](https://github.com/Joker-Jelly/catta) - Simple promise base request client for browser
