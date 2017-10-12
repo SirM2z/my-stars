@@ -67,7 +67,7 @@
 - [thinkjs](https://github.com/thinkjs/thinkjs) - Use full ES2015+ features to develop Node.js applications http://www.thinkjs.org/
 - [best-resume-ever](https://github.com/salomonelli/best-resume-ever) - 👔 💼 Build fast 🚀 and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.https://salomonelli.github.io/best-resume-ever/#/
 ## web素材
-- [SuperTinySocialIcons](https://github.com/edent/SuperTinySocialIcons) - Under 1KB each! Super Tiny Social Icons are miniscule SVG versions of your favourite logos
+- [SuperTinySocialIcons](https://github.com/edent/SuperTinySocialIcons) - Under 1KB each! Super Tiny Social Icons are miniscule SVG      versions of your favourite logos
 - [bttn.css](https://github.com/ganapativs/bttn.css) - Awesome buttons for awesome projects!
 - [mdui](https://github.com/zdhxiong/mdui) - MDUI 是一个基于 Material Design 的前端框架。
 - [hue](https://github.com/evankarageorgos/hue) - A huge pack of 49 photorealistic gradients that you can use as content backdrops.
@@ -178,6 +178,7 @@
 - [free-programming-books](https://github.com/vhf/free-programming-books) - :books: Freely available programming books
 - [N-blog](https://github.com/nswbmw/N-blog) - 一起学 Node.js
 - [alloyteam.github.com](https://github.com/AlloyTeam/alloyteam.github.com) - 腾讯 AlloyTeam 开源项目官网 - 我们的愿景: 成为业界卓越的Web团队！
+- [microservices-from-design-to-deployment-chinese](https://github.com/oopsguy/microservices-from-design-to-deployment-chinese) - Microservices from Design to Deployment 中文版 — 《微服务：从设计到部署》
 ## vue
 - [vue-infinite-loading](https://github.com/PeachScript/vue-infinite-loading) - An infinite scroll plugin for Vue.js 1.0 & Vue.js 2.0.
 - [vue-scroller](https://github.com/wangdahoo/vue-scroller) - Scroller Component for Vue.js
