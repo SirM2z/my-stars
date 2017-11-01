@@ -84,6 +84,7 @@
 - [weui](https://github.com/weui/weui) - A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications.
 - [spin.js](https://github.com/fgnass/spin.js) - A spinning activity indicator
 - [iview-admin](https://github.com/iview/iview-admin) - Vue 2.0 admin management system template based on iView https://iview.github.io/iview-admin
+- [ant-design-pro](https://github.com/ant-design/ant-design-pro) - 👻🎃 An out-of-box UI solution for enterprise applications http://pro.ant.design/
 ## 幻灯片
 - [zuck.js](https://github.com/ramon82/zuck.js) - A javascript library that lets you add stories EVERYWHERE.
 - [eagle.js](https://github.com/Zulko/eagle.js) - A hackable slideshow framework built with Vue.js
