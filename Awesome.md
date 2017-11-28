@@ -183,6 +183,8 @@
 - [N-blog](https://github.com/nswbmw/N-blog) - 一起学 Node.js
 - [alloyteam.github.com](https://github.com/AlloyTeam/alloyteam.github.com) - 腾讯 AlloyTeam 开源项目官网 - 我们的愿景: 成为业界卓越的Web团队！
 - [microservices-from-design-to-deployment-chinese](https://github.com/oopsguy/microservices-from-design-to-deployment-chinese) - Microservices from Design to Deployment 中文版 — 《微服务：从设计到部署》
+- [git-flight-rules](https://github.com/k88hudson/git-flight-rules) - Flight rules for git
+
 ## vue
 - [vue-infinite-loading](https://github.com/PeachScript/vue-infinite-loading) - An infinite scroll plugin for Vue.js 1.0 & Vue.js 2.0.
 - [vue-scroller](https://github.com/wangdahoo/vue-scroller) - Scroller Component for Vue.js
