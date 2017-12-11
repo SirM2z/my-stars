@@ -276,6 +276,7 @@
 - [wsl-terminal](https://github.com/goreliu/wsl-terminal) - Terminal emulator for Windows Subsystem for Linux (WSL) https://goreliu.github.io/wsl-terminal/
 ## DB
 - [mongoose](https://github.com/Automattic/mongoose) - MongoDB object modeling designed to work in an asynchronous environment.
+- [sequelize](https://github.com/sequelize/sequelize) - An easy-to-use multi SQL dialect ORM for Node.js http://docs.sequelizejs.com
 ## App
 - [ramme](https://github.com/terkelg/ramme) - 📷  Unofficial Instagram Desktop App
 - [f8app](https://github.com/fbsamples/f8app) - Source code of the official F8 app of 2016, powered by React Native and other Facebook open source projects.
