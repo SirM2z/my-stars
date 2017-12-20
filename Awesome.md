@@ -48,6 +48,7 @@
 - [zhihuspider](https://github.com/atonasting/zhihuspider) - 网站「看知乎」的爬虫
 - [gka](https://github.com/joeyguo/gka) - 一款高效、高性能的帧动画生成工具
 - [p2pspider](https://github.com/fanpei91/p2pspider) - DHT Spider + BitTorrent Client = P2P Spider
+- [puppeteer](https://github.com/GoogleChrome/puppeteer) - Headless Chrome Node API
 ## web框架
 - [egg](https://github.com/eggjs/egg) - Born to build better enterprise frameworks and apps with Node.js & Koa
 - [beego](https://github.com/astaxie/beego) - beego is an open-source, high-performance web framework for the Go programming language.
@@ -85,6 +86,8 @@
 - [spin.js](https://github.com/fgnass/spin.js) - A spinning activity indicator
 - [iview-admin](https://github.com/iview/iview-admin) - Vue 2.0 admin management system template based on iView https://iview.github.io/iview-admin
 - [ant-design-pro](https://github.com/ant-design/ant-design-pro) - 👻🎃 An out-of-box UI solution for enterprise applications http://pro.ant.design/
+- [DeerResume](https://github.com/geekcompany/DeerResume) - MarkDown在线简历工具，可在线预览、编辑和生成PDF。[DeerCV.com随时可能登陆不上，请备份数据]
+  
 ## 幻灯片
 - [zuck.js](https://github.com/ramon82/zuck.js) - A javascript library that lets you add stories EVERYWHERE.
 - [eagle.js](https://github.com/Zulko/eagle.js) - A hackable slideshow framework built with Vue.js
@@ -146,11 +149,13 @@
 - [minirefresh](https://github.com/minirefresh/minirefresh) - 优雅的H5下拉刷新。零依赖，高性能，多主题，易拓展。(A Graceful HTML5 Drop-Down-Refresh Plugin. ) https://minirefresh.github.io/
 - [lozad.js](https://github.com/ApoorvSaxena/lozad.js) - Highly performant, light ~0.5kb and configurable lazy loader in pure JS with no dependencies for images, iframes and more https://apoorv.pro/lozad.js/demo/
 - [draggable](https://github.com/Shopify/draggable) - The JavaScript Drag & Drop library your grandparents warned you about. https://shopify.github.io/draggable/
+
 ## Ajax
 - [unfetch](https://github.com/developit/unfetch) - 🐶 Bare minimum fetch polyfill in 500 bytes.
 - [catta](https://github.com/Joker-Jelly/catta) - Simple promise base request client for browser
 - [axios](https://github.com/mzabriskie/axios) - Promise based HTTP client for the browser and node.js
 - [fetch](https://github.com/github/fetch) - A window.fetch JavaScript polyfill.
+
 ## book
 - [You-Dont-Need-jQuery](https://github.com/oneuijs/You-Dont-Need-jQuery) - Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.
 - [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2017
