@@ -18,6 +18,7 @@
 - [video](#video)
 - [audio](#audio)
 - [微信机器人](#微信机器人)
+- [微信小程序](#微信小程序)
 - [web布局](#web布局)
 - [language](#language)
 - [动画库](#动画库)
@@ -242,6 +243,8 @@
 ## 微信机器人
 - [wxpy](https://github.com/youfou/wxpy) - 微信机器人 / 优雅的微信个人号API
 - [WebWechat](https://github.com/lbbniu/WebWechat) - 网页微信PHP登录的实现
+## 微信小程序
+- [wepy](https://github.com/Tencent/wepy) - 小程序组件化开发框架 https://tencent.github.io/wepy/
 ## web布局
 - [lib-flexible](https://github.com/amfe/lib-flexible) - 可伸缩布局方案
 - [postcss-grid-kiss](https://github.com/sylvainpolletvillard/postcss-grid-kiss) - A PostCSS plugin to keep CSS grids stupidly simple
