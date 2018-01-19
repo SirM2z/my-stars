@@ -102,6 +102,7 @@
 - [slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors.
 - [wangEditor](https://github.com/wangfupeng1988/wangEditor) - wangEditor —— 轻量级web富文本框
 - [quill](https://github.com/quilljs/quill) - Your powerful, rich text editor
+- [pell](https://github.com/jaredreich/pell) - 📝 the simplest and smallest (1kB) WYSIWYG text editor for web, with no dependencies https://jaredreich.com/pell
 ## 科学上网
 - [shadowsocks_install](https://github.com/teddysun/shadowsocks_install) - Auto Install Shadowsocks Server for CentOS/Debian/Ubuntu
 - [shadowsocks-manager](https://github.com/shadowsocks/shadowsocks-manager) - A shadowsocks manager tool for multi user and traffic control.
