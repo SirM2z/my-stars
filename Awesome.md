@@ -272,6 +272,8 @@
 - [g9](https://github.com/bijection/g9) - Automatically Interactive Graphics 🖼✨💯
 - [chartist-js](https://github.com/gionkunz/chartist-js) - Simple responsive charts
 - [echarts](https://github.com/ecomfe/echarts) - A powerful, interactive charting and visualization library for browser
+- [g2](https://github.com/antvis/g2) - G2 (The Grammar of Graphics) https://antv.alipay.com/zh-cn/g2/3.x/…
+- [f2](https://github.com/antvis/f2) - 基于 HTML5 Canvas，开箱即用的移动端可视化解决方案 https://antvis.github.io/f2/
 ## css工具
 - [autoprefixer](https://github.com/postcss/autoprefixer) -  Parse CSS and add vendor prefixes to rules by Can I Use
 - [text-spinners](https://github.com/tawian/text-spinners) - Pure text, CSS only, font independent, inline loading indicators
