@@ -250,6 +250,7 @@
 - [WebWechat](https://github.com/lbbniu/WebWechat) - 网页微信PHP登录的实现
 ## 微信小程序
 - [wepy](https://github.com/Tencent/wepy) - 小程序组件化开发框架 https://tencent.github.io/wepy/
+- [unwxapkg](https://github.com/thedreamwork/unwxapkg) - unpack wxapkg
 ## web布局
 - [lib-flexible](https://github.com/amfe/lib-flexible) - 可伸缩布局方案
 - [postcss-grid-kiss](https://github.com/sylvainpolletvillard/postcss-grid-kiss) - A PostCSS plugin to keep CSS grids stupidly simple
