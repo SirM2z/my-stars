@@ -31,6 +31,7 @@
 - [编辑器](#编辑器)
 - [浏览器插件](#浏览器插件)
 - [生活](#生活)
+- [下载](#下载)
 ## nodejs工具
 - [Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
 - [node-schedule](https://github.com/node-schedule/node-schedule) - A cron-like and not-cron-like job scheduler for Node.
@@ -154,6 +155,7 @@
 - [minirefresh](https://github.com/minirefresh/minirefresh) - 优雅的H5下拉刷新。零依赖，高性能，多主题，易拓展。(A Graceful HTML5 Drop-Down-Refresh Plugin. ) https://minirefresh.github.io/
 - [lozad.js](https://github.com/ApoorvSaxena/lozad.js) - Highly performant, light ~0.5kb and configurable lazy loader in pure JS with no dependencies for images, iframes and more https://apoorv.pro/lozad.js/demo/
 - [draggable](https://github.com/Shopify/draggable) - The JavaScript Drag & Drop library your grandparents warned you about. https://shopify.github.io/draggable/
+- [jslib-base](https://github.com/yanhaijing/jslib-base) - 最好用的js第三方库脚手架，赋能js第三方库开源，让开发一个js库更简单，更专业
 
 ## Ajax
 - [unfetch](https://github.com/developit/unfetch) - 🐶 Bare minimum fetch polyfill in 500 bytes.
@@ -308,3 +310,5 @@
 - [listen1_chrome_extension](https://github.com/listen1/listen1_chrome_extension) - one for all free music in china (chrome extension, also works for firefox)
 ## 生活
 - [hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge) - 2017年买房经历总结出来的买房购房知识分享给大家，希望对大家有所帮助。买房不易，且买且珍惜。
+## 下载
+- [proxyee-down](https://github.com/monkeyWie/proxyee-down) - http下载工具，基于http代理，支持多连接分块下载
