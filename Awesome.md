@@ -254,6 +254,7 @@
 ## 微信小程序
 - [wepy](https://github.com/Tencent/wepy) - 小程序组件化开发框架 https://tencent.github.io/wepy/
 - [unwxapkg](https://github.com/thedreamwork/unwxapkg) - unpack wxapkg
+- [wxappUnpacker](https://github.com/qwerty472123/wxappUnpacker) - Wechat App(微信小程序,.wxapkg)解包及相关文件(.wxss,.json,.wxs,.wxml)还原工具
 ## web布局
 - [lib-flexible](https://github.com/amfe/lib-flexible) - 可伸缩布局方案
 - [postcss-grid-kiss](https://github.com/sylvainpolletvillard/postcss-grid-kiss) - A PostCSS plugin to keep CSS grids stupidly simple
