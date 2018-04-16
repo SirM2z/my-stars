@@ -223,6 +223,7 @@
 - [awesome-vue](https://github.com/vuejs/awesome-vue) - A curated list of awesome things related to Vue.js
 - [vue-resource](https://github.com/pagekit/vue-resource/tree/master) - The HTTP client for Vue.js
 - [vant](https://github.com/youzan/vant) - A Vue.js 2.0 Mobile UI at YouZan https://www.youzanyun.com/zanui/vant
+- [vuepress](https://github.com/vuejs/vuepress) - Minimalistic Vue-powered static site generator https://vuepress.vuejs.org/
 ## react
 - [create-react-native-app](https://github.com/react-community/create-react-native-app) - Create a React Native app on any OS with no build config.
 - [react-tetris](https://github.com/chvin/react-tetris) - Use React, Redux, Immutable to code Tetris. 🎮
