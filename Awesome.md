@@ -317,3 +317,4 @@
 - [hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge) - 2017年买房经历总结出来的买房购房知识分享给大家，希望对大家有所帮助。买房不易，且买且珍惜。
 ## 下载
 - [proxyee-down](https://github.com/monkeyWie/proxyee-down) - http下载工具，基于http代理，支持多连接分块下载
+- [PicGo](https://github.com/Molunerfinn/PicGo) - 🚀A simple & beautiful tool for pictures uploading built by electron-vue https://molunerfinn.com/PicGo/
