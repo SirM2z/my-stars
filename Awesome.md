@@ -4,7 +4,7 @@
 
 ## Contents
 
-- [AST](#AST)
+- [AST](#ast)
 - [算法](#算法)
 - [nodejs工具](#nodejs工具)
 - [web框架](#web框架)
