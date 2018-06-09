@@ -167,6 +167,7 @@
 - [draggable](https://github.com/Shopify/draggable) - The JavaScript Drag & Drop library your grandparents warned you about. https://shopify.github.io/draggable/
 - [jslib-base](https://github.com/yanhaijing/jslib-base) - 最好用的js第三方库脚手架，赋能js第三方库开源，让开发一个js库更简单，更专业
 - [text-mask](https://github.com/text-mask/text-mask) - Input mask for React, Angular, Ember, Vue, & plain JavaScript https://text-mask.github.io/text-mask/
+- [pulltorefresh.js](https://github.com/BoxFactura/pulltorefresh.js) - A quick and powerful plugin for your pull-to-refresh needs in your webapp. http://boxfactura.com/pulltorefresh.js/
 
 ## Ajax
 - [unfetch](https://github.com/developit/unfetch) - 🐶 Bare minimum fetch polyfill in 500 bytes.
