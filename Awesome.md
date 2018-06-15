@@ -151,6 +151,7 @@
 - [dragula](https://github.com/bevacqua/dragula) - :ok_hand: Drag and drop so simple it hurts
 - [sweetalert](https://github.com/t4t5/sweetalert) - A beautiful replacement for JavaScript's "alert"
 - [moment](https://github.com/moment/moment) - Parse, validate, manipulate, and display dates in javascript.
+- [dayjs](https://github.com/iamkun/dayjs) - ⏰ Day.js 2KB immutable date library alternative to Moment.js with the same modern API https://github.com/iamkun/dayjs
 - [date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️ https://date-fns.org
 - [underscore](https://github.com/jashkenas/underscore) - JavaScript's utility _ belt
 - [places](https://github.com/algolia/places) - :globe_with_meridians: Turn any <input> into an address autocomplete
