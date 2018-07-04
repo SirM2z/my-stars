@@ -174,6 +174,8 @@
 - [text-mask](https://github.com/text-mask/text-mask) - Input mask for React, Angular, Ember, Vue, & plain JavaScript https://text-mask.github.io/text-mask/
 - [pulltorefresh.js](https://github.com/BoxFactura/pulltorefresh.js) - A quick and powerful plugin for your pull-to-refresh needs in your webapp. http://boxfactura.com/pulltorefresh.js/
 - [Print.js](https://github.com/crabbly/Print.js) - A tiny javascript library to help printing from the web.
+- [lodash](https://github.com/lodash/lodash) - A modern JavaScript utility library delivering modularity, performance, & extras. https://lodash.com/
+- [mathjs](https://github.com/josdejong/mathjs) - An extensive math library for JavaScript and Node.js http://mathjs.org
 ## Ajax
 - [unfetch](https://github.com/developit/unfetch) - 🐶 Bare minimum fetch polyfill in 500 bytes.
 - [catta](https://github.com/Joker-Jelly/catta) - Simple promise base request client for browser
@@ -296,6 +298,7 @@
 - [echarts](https://github.com/ecomfe/echarts) - A powerful, interactive charting and visualization library for browser
 - [g2](https://github.com/antvis/g2) - G2 (The Grammar of Graphics) https://antv.alipay.com/zh-cn/g2/3.x/…
 - [f2](https://github.com/antvis/f2) - 基于 HTML5 Canvas，开箱即用的移动端可视化解决方案 https://antvis.github.io/f2/
+- [Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the <canvas> tag http://www.chartjs.org/
 ## css工具
 - [autoprefixer](https://github.com/postcss/autoprefixer) -  Parse CSS and add vendor prefixes to rules by Can I Use
 - [text-spinners](https://github.com/tawian/text-spinners) - Pure text, CSS only, font independent, inline loading indicators
