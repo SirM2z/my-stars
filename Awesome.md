@@ -44,6 +44,7 @@
 - [vm.js](https://github.com/axetroy/vm.js) - Javascript Interpreter, run Javascript code in ECMAScript https://axetroy.github.io/vm.js
 ## 算法
 - [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+- [JS-Sorting-Algorithm](https://github.com/hustcc/JS-Sorting-Algorithm) - 一本关于排序算法的 GitBook 在线书籍 《十大经典排序算法》，使用 JavaScript & Python & Go 实现。
 ## nodejs工具
 - [Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
 - [node-schedule](https://github.com/node-schedule/node-schedule) - A cron-like and not-cron-like job scheduler for Node.
@@ -193,7 +194,6 @@
 - [node-interview](https://github.com/ElemeFE/node-interview) - How to pass the Node.js interview of ElemeFE.
 - [build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) - A golang ebook intro how to build a web with golang
 - [interview-questions-in-javascript](https://github.com/kennymkchan/interview-questions-in-javascript) - A mostly reasonable collection of technical software development interview questions solved in Javascript
-- [JS-Sorting-Algorithm](https://github.com/hustcc/JS-Sorting-Algorithm) - 一本关于排序算法的 GitBook 在线书籍 《十大经典排序算法》，使用 JavaScript & Python & Go 实现。
 - [typescript-tutorial](https://github.com/xcatliu/typescript-tutorial) - TypeScript 入门教程
 - [clean-code-js](https://github.com/alivebao/clean-code-js) - JavaScript风格指南
 - [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - :bathtub: Clean Code concepts adapted for JavaScript
