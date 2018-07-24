@@ -220,6 +220,7 @@
 - [microservices-from-design-to-deployment-chinese](https://github.com/oopsguy/microservices-from-design-to-deployment-chinese) - Microservices from Design to Deployment 中文版 — 《微服务：从设计到部署》
 - [git-flight-rules](https://github.com/k88hudson/git-flight-rules) - Flight rules for git
 - [front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - 🕸 Almost complete answers to "Front-end Job Interview Questions" which you can use to interview potential candidates, test yourself or completely ignore
+- [InterviewMap](https://github.com/InterviewMap/InterviewMap) - Build the best interview map. The current content includes JS, network, browser related, performance optimization, security, framework, Git, data structure, algorithm, etc. https://yuchengkai.cn/docs/
 
 ## vue
 - [vue-infinite-loading](https://github.com/PeachScript/vue-infinite-loading) - An infinite scroll plugin for Vue.js 1.0 & Vue.js 2.0.
