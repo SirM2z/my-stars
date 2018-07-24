@@ -65,6 +65,7 @@
 - [gka](https://github.com/joeyguo/gka) - 一款高效、高性能的帧动画生成工具
 - [p2pspider](https://github.com/fanpei91/p2pspider) - DHT Spider + BitTorrent Client = P2P Spider
 - [puppeteer](https://github.com/GoogleChrome/puppeteer) - Headless Chrome Node API
+- [face-api.js](https://github.com/justadudewhohacks/face-api.js) - JavaScript API for face detection and face recognition in the browser with tensorflow.js
 ## Go工具
 - [go-tools](https://github.com/Finb/go-tools) - tool of Bark.(Bark is an iOS App which allows you to push customed notifications to your iPhone)
 - [mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally-trusted development certificates with any names you'd like.
