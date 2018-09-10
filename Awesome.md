@@ -77,7 +77,6 @@ A progressive Node.js framework for building efficient and scalable server-side 
 - [egg](https://github.com/eggjs/egg) - Born to build better enterprise frameworks and apps with Node.js & Koa
 - [beego](https://github.com/astaxie/beego) - beego is an open-source, high-performance web framework for the Go programming language.
 - [botpress](https://github.com/botpress/botpress) - 🤖  The only sane way to build great bots. 👉
-- [docsify](https://github.com/QingWei-Li/docsify) - 🃏 A magical documentation site generator.
 - [weex](https://github.com/alibaba/weex) - A framework for building Mobile cross-platform UI
 - [mmf-blog-api](https://github.com/lincenying/mmf-blog-api) - mmf-blog api server
 - [hexo-theme-even](https://github.com/ahonn/hexo-theme-even) - :rocket:  A super simple theme for Hexo  
@@ -91,8 +90,10 @@ A progressive Node.js framework for building efficient and scalable server-side 
 - [hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
 - [thinkjs](https://github.com/thinkjs/thinkjs) - Use full ES2015+ features to develop Node.js applications http://www.thinkjs.org/
 - [best-resume-ever](https://github.com/salomonelli/best-resume-ever) - 👔 💼 Build fast 🚀 and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.https://salomonelli.github.io/best-resume-ever/#/
+- [vuepress](https://github.com/vuejs/vuepress) - Minimalistic Vue-powered static site generator https://vuepress.vuejs.org/
 ## Doc
 - [docz](https://github.com/pedronauck/docz) - ✍🏻It has never been so easy to document your things! https://docz.site
+- [docsify](https://github.com/QingWei-Li/docsify) - 🃏 A magical documentation site generator.
 ## web素材
 - [SuperTinySocialIcons](https://github.com/edent/SuperTinySocialIcons) - Under 1KB each! Super Tiny Social Icons are miniscule SVG      versions of your favourite logos
 - [bttn.css](https://github.com/ganapativs/bttn.css) - Awesome buttons for awesome projects!
@@ -251,7 +252,6 @@ A progressive Node.js framework for building efficient and scalable server-side 
 - [awesome-vue](https://github.com/vuejs/awesome-vue) - A curated list of awesome things related to Vue.js
 - [vue-resource](https://github.com/pagekit/vue-resource/tree/master) - The HTTP client for Vue.js
 - [vant](https://github.com/youzan/vant) - A Vue.js 2.0 Mobile UI at YouZan https://www.youzanyun.com/zanui/vant
-- [vuepress](https://github.com/vuejs/vuepress) - Minimalistic Vue-powered static site generator https://vuepress.vuejs.org/
 ## react
 - [create-react-native-app](https://github.com/react-community/create-react-native-app) - Create a React Native app on any OS with no build config.
 - [react-tetris](https://github.com/chvin/react-tetris) - Use React, Redux, Immutable to code Tetris. 🎮
