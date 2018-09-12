@@ -91,6 +91,7 @@ A progressive Node.js framework for building efficient and scalable server-side 
 - [thinkjs](https://github.com/thinkjs/thinkjs) - Use full ES2015+ features to develop Node.js applications http://www.thinkjs.org/
 - [best-resume-ever](https://github.com/salomonelli/best-resume-ever) - 👔 💼 Build fast 🚀 and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.https://salomonelli.github.io/best-resume-ever/#/
 - [vuepress](https://github.com/vuejs/vuepress) - Minimalistic Vue-powered static site generator https://vuepress.vuejs.org/
+- [hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites. https://gohugo.io
 ## Doc
 - [docz](https://github.com/pedronauck/docz) - ✍🏻It has never been so easy to document your things! https://docz.site
 - [docsify](https://github.com/QingWei-Li/docsify) - 🃏 A magical documentation site generator.
