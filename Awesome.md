@@ -145,6 +145,7 @@ A progressive Node.js framework for building efficient and scalable server-side 
 - [Surge-Rule-Snippets](https://github.com/Hackl0us/Surge-Rule-Snippets) - 搜集、整理、维护Surge/ShadowRocket/Quantumult/Potatso实用规则。
 - [openvpn-install](https://github.com/Nyr/openvpn-install) - OpenVPN road warrior installer for Debian, Ubuntu and CentOS
 - [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - Next Generation of ShadowsocksX
+- [kcptun_gclient](https://github.com/dfdragon/kcptun_gclient) - GUI for KCPTun windows client
 ## js工具
 - [intro.js](https://github.com/usablica/intro.js) - A better way for new feature introduction and step-by-step users guide for your website and project.
 - [moveTo](https://github.com/hsnaydd/moveTo) - A lightweight scroll animation javascript library without any dependency 
