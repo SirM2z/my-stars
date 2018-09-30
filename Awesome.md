@@ -26,7 +26,7 @@
 - [web布局](#web布局)
 - [language](#language)
 - [动画库](#动画库)
-- [绘图](#绘图)
+- [可视化](#可视化)
 - [css工具](#css工具)
 - [常用数据](#常用数据)
 - [linux](#linux)
@@ -303,8 +303,7 @@ A progressive Node.js framework for building efficient and scalable server-side 
 - [granim.js](https://github.com/sarcadass/granim.js) - Create fluid and interactive gradients animations with this small (< 10 kB) js library.
 - [Hover](https://github.com/IanLunn/Hover) - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.
 - [pixi.js](https://github.com/pixijs/pixi.js) - Super fast HTML 5 2D rendering engine that uses webGL with canvas fallback
-- [three.js](https://github.com/mrdoob/three.js) - JavaScript 3D library. https://threejs.org/
-## 绘图
+## 可视化
 - [d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
 - [awesome-echarts](https://github.com/ecomfe/awesome-echarts) - Awesome list of echarts
 - [g9](https://github.com/bijection/g9) - Automatically Interactive Graphics 🖼✨💯
@@ -313,6 +312,7 @@ A progressive Node.js framework for building efficient and scalable server-side 
 - [g2](https://github.com/antvis/g2) - G2 (The Grammar of Graphics) https://antv.alipay.com/zh-cn/g2/3.x/…
 - [f2](https://github.com/antvis/f2) - 基于 HTML5 Canvas，开箱即用的移动端可视化解决方案 https://antvis.github.io/f2/
 - [Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the <canvas> tag http://www.chartjs.org/
+- [three.js](https://github.com/mrdoob/three.js) - JavaScript 3D library. https://threejs.org/
 ## css工具
 - [autoprefixer](https://github.com/postcss/autoprefixer) -  Parse CSS and add vendor prefixes to rules by Can I Use
 - [text-spinners](https://github.com/tawian/text-spinners) - Pure text, CSS only, font independent, inline loading indicators
