@@ -258,12 +258,13 @@ A progressive Node.js framework for building efficient and scalable server-side 
 - [vant](https://github.com/youzan/vant) - A Vue.js 2.0 Mobile UI at YouZan https://www.youzanyun.com/zanui/vant
 ## react
 - [create-react-native-app](https://github.com/react-community/create-react-native-app) - Create a React Native app on any OS with no build config.
+- [create-react-app](https://github.com/facebookincubator/create-react-app) - Create React apps with no build configuration.
+- [create-react-app-typescript](https://github.com/wmonk/create-react-app-typescript) - Create React apps using typescript with no build configuration. [https://www.npmjs.com/package/react-scripts-ts](https://www.npmjs.com/package/react-scripts-ts)
 - [react-tetris](https://github.com/chvin/react-tetris) - Use React, Redux, Immutable to code Tetris. 🎮
 - [dva](https://github.com/dvajs/dva) - 🌱 React and redux based, lightweight and elm-style framework. (Inspired by elm and choo)
 - [redux-devtools-extension](https://github.com/zalmoxisus/redux-devtools-extension) - Redux DevTools extension.
 - [react-color](https://github.com/casesandberg/react-color) - :art: Color Pickers from Sketch, Photoshop, Chrome, Github, Twitter & more
 - [awesome-react-components](https://github.com/brillout/awesome-react-components) - Catalog of React Components & Libraries
-- [create-react-app](https://github.com/facebookincubator/create-react-app) - Create React apps with no build configuration.
 - [immutable-js](https://github.com/facebook/immutable-js) - Immutable persistent data collections for Javascript which increase efficiency and simplicity.
 - [react-starter-kit](https://github.com/kriasoft/react-starter-kit) - React Starter Kit — isomorphic web app boilerplate (Node.js, Express, GraphQL, React.js, Babel, PostCSS, Webpack, Browsersync)
 - [react-input-enhancements](https://github.com/alexkuz/react-input-enhancements) - Set of enhancements for input control
