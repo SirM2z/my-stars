@@ -258,6 +258,7 @@ A progressive Node.js framework for building efficient and scalable server-side 
 - [awesome-vue](https://github.com/vuejs/awesome-vue) - A curated list of awesome things related to Vue.js
 - [vue-resource](https://github.com/pagekit/vue-resource/tree/master) - The HTTP client for Vue.js
 - [vant](https://github.com/youzan/vant) - A Vue.js 2.0 Mobile UI at YouZan https://www.youzanyun.com/zanui/vant
+- [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin/) - 🎉 A magical vue admin http://panjiachen.github.io/vue-element-admin
 ## react
 - [create-react-native-app](https://github.com/react-community/create-react-native-app) - Create a React Native app on any OS with no build config.
 - [create-react-app](https://github.com/facebookincubator/create-react-app) - Create React apps with no build configuration.
