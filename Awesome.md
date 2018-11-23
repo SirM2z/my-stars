@@ -69,6 +69,9 @@
 - [js-xlsx](https://github.com/SheetJS/js-xlsx) - 📗 SheetJS Community Edition -- Spreadsheet Parser and Writer https://sheetjs.com/
 - [RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 万物皆可 RSS https://docs.rsshub.app
 - [nodemon](https://github.com/remy/nodemon) - Monitor for any changes in your node.js application and automatically restart the server - perfect for development http://nodemon.io/
+- [rimraf](https://github.com/isaacs/rimraf#readme) - A `rm -rf` util for nodejs
+- [ncp](https://github.com/AvianFlu/ncp) - Asynchronous recursive file copying with Node.js.
+- [chalk](https://github.com/chalk/chalk) - 🖍 Terminal string styling done right
 
 ## Go工具
 - [go-tools](https://github.com/Finb/go-tools) - tool of Bark.(Bark is an iOS App which allows you to push customed notifications to your iPhone)
