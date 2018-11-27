@@ -139,7 +139,6 @@ A progressive Node.js framework for building efficient and scalable server-side 
 - [shadowsocks_install](https://github.com/teddysun/shadowsocks_install) - Auto Install Shadowsocks Server for CentOS/Debian/Ubuntu
 - [shadowsocks-manager](https://github.com/shadowsocks/shadowsocks-manager) - A shadowsocks manager tool for multi user and traffic control.
 - [kcptun](https://github.com/xtaci/kcptun) - A Secure Tunnel Based On KCP with N:M Multiplexing
-- [shadowsocksr-csharp](https://github.com/shadowsocksr/shadowsocksr-csharp) - ShadowsocksR for Windows
 - [shadowsocks](https://github.com/shadowsocks/shadowsocks) - null
 - [shadowsocks-qt5](https://github.com/shadowsocks/shadowsocks-qt5) - A cross-platform shadowsocks GUI client
 - [genpac](https://github.com/JinnLynn/genpac) - PAC file Generator,  working with gfwlist, support custom rules.
