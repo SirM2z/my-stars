@@ -83,6 +83,7 @@
 
 ## Python工具
 - [futuquant](https://github.com/FutunnOpen/futuquant) - python for FutuOpenD https://futunnopen.github.io/futuquant/intro/intro.html
+- [py-futu-api](https://github.com/FutunnOpen/py-futu-api) - 富途量化交易API https://futunnopen.github.io/futu-api-doc/intro/intro.html
 ## web框架
 - [nest](https://github.com/nestjs/nest) - 
 A progressive Node.js framework for building efficient and scalable server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) heavily inspired by Angular 😻🚀 https://nestjs.com/
