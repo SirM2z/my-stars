@@ -289,6 +289,7 @@ A progressive Node.js framework for building efficient and scalable server-side 
 - [react-ui](https://github.com/Lobos/react-ui) - A collection of components for React, base on bootstrap 4.0. 
 - [react-router](https://github.com/ReactTraining/react-router) - Declarative routing for React
 - [react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [next.js](https://github.com/zeit/next.js) - The React Framework https://nextjs.org
 ## video
 - [plyr](https://github.com/Selz/plyr) - A simple HTML5, YouTube and Vimeo player
 - [flv.js](https://github.com/Bilibili/flv.js) - HTML5 FLV Player
