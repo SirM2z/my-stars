@@ -32,6 +32,7 @@
 - [css工具](#css工具)
 - [常用数据](#常用数据)
 - [linux](#linux)
+- [Mac](#mac)
 - [DB](#DB)
 - [App](#App)
 - [编辑器](#编辑器)
@@ -351,6 +352,8 @@ A progressive Node.js framework for building efficient and scalable server-side 
 - [awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This repo is a collection of awesome Mac applications and tools for developers and designers.
 - [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - A delightful community-driven (with 1,000+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [wsl-terminal](https://github.com/goreliu/wsl-terminal) - Terminal emulator for Windows Subsystem for Linux (WSL) https://goreliu.github.io/wsl-terminal/
+## Mac
+- [Dozer](https://github.com/Mortennn/Dozer) - Hide MacOS menubar items
 ## DB
 - [mongoose](https://github.com/Automattic/mongoose) - MongoDB object modeling designed to work in an asynchronous environment.
 - [sequelize](https://github.com/sequelize/sequelize) - An easy-to-use multi SQL dialect ORM for Node.js http://docs.sequelizejs.com
