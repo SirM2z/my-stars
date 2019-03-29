@@ -112,6 +112,7 @@ A progressive Node.js framework for building efficient and scalable server-side 
 ## Doc
 - [docz](https://github.com/pedronauck/docz) - ✍🏻It has never been so easy to document your things! https://docz.site
 - [docsify](https://github.com/QingWei-Li/docsify) - 🃏 A magical documentation site generator.
+- [Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question) - 工作日每天一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。
 ## web素材
 - [SuperTinySocialIcons](https://github.com/edent/SuperTinySocialIcons) - Under 1KB each! Super Tiny Social Icons are miniscule SVG      versions of your favourite logos
 - [bttn.css](https://github.com/ganapativs/bttn.css) - Awesome buttons for awesome projects!
