@@ -107,6 +107,7 @@ A progressive Node.js framework for building efficient and scalable server-side 
 - [best-resume-ever](https://github.com/salomonelli/best-resume-ever) - 👔 💼 Build fast 🚀 and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.https://salomonelli.github.io/best-resume-ever/#/
 - [vuepress](https://github.com/vuejs/vuepress) - Minimalistic Vue-powered static site generator https://vuepress.vuejs.org/
 - [hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites. https://gohugo.io
+- [nestx](https://github.com/vellengs/nestx) - A full stack infrastructure base on nest. http://typerx.top/
 ## Git
 - [gitignore.io](https://github.com/joeblau/gitignore.io) - Create useful .gitignore files for your project https://gitignore.io
 ## Doc
