@@ -134,6 +134,7 @@ A progressive Node.js framework for building efficient and scalable server-side 
 - [ant-design-pro](https://github.com/ant-design/ant-design-pro) - 👻🎃 An out-of-box UI solution for enterprise applications http://pro.ant.design/
 - [DeerResume](https://github.com/geekcompany/DeerResume) - MarkDown在线简历工具，可在线预览、编辑和生成PDF。[DeerCV.com随时可能登陆不上，请备份数据]
 - [giojs](https://github.com/syt123450/giojs) - 🌏 A Declarative 3D Globe Data Visualization Library built with Three.js https://giojs.org
+- [AutoPiano](https://github.com/WarpPrism/AutoPiano) - 自由钢琴 AutoPiano，喜欢可以star ( http://crystalworld.gitee.io/qpiano/#/ )
   
 ## 幻灯片
 - [zuck.js](https://github.com/ramon82/zuck.js) - A javascript library that lets you add stories EVERYWHERE.
