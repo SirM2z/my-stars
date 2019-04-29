@@ -84,7 +84,6 @@
 - [mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally-trusted development certificates with any names you'd like.
 
 ## Python工具
-- [futuquant](https://github.com/FutunnOpen/futuquant) - python for FutuOpenD https://futunnopen.github.io/futuquant/intro/intro.html
 - [py-futu-api](https://github.com/FutunnOpen/py-futu-api) - 富途量化交易API https://futunnopen.github.io/futu-api-doc/intro/intro.html
 ## web框架
 - [nest](https://github.com/nestjs/nest) - 
@@ -340,6 +339,7 @@ A progressive Node.js framework for building efficient and scalable server-side 
 - [f2](https://github.com/antvis/f2) - 基于 HTML5 Canvas，开箱即用的移动端可视化解决方案 https://antvis.github.io/f2/
 - [Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the <canvas> tag http://www.chartjs.org/
 - [three.js](https://github.com/mrdoob/three.js) - JavaScript 3D library. https://threejs.org/
+
 ## css工具
 - [autoprefixer](https://github.com/postcss/autoprefixer) -  Parse CSS and add vendor prefixes to rules by Can I Use
 - [text-spinners](https://github.com/tawian/text-spinners) - Pure text, CSS only, font independent, inline loading indicators
