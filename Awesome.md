@@ -95,7 +95,7 @@ A progressive Node.js framework for building efficient and scalable server-side 
 - [beego](https://github.com/astaxie/beego) - beego is an open-source, high-performance web framework for the Go programming language.
 - [botpress](https://github.com/botpress/botpress) - 🤖  The only sane way to build great bots. 👉
 - [weex](https://github.com/alibaba/weex) - A framework for building Mobile cross-platform UI
-- [hexo-theme-even](https://github.com/ahonn/hexo-theme-even) - :rocket:  A super simple theme for Hexo  
+- [hexo-theme-even](https://github.com/ahonn/hexo-theme-even) - 🚀 A super concise theme for Hexo https://ahonn.github.io/hexo-theme-even/  
 - [hexo-theme-yilia](https://github.com/litten/hexo-theme-yilia) - 一个简洁优雅的hexo主题  A simple and elegant theme for hexo.
 - [slate](https://github.com/lord/slate) - Beautiful static documentation for your API
 - [meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
