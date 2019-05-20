@@ -82,6 +82,7 @@
 - [ncp](https://github.com/AvianFlu/ncp) - Asynchronous recursive file copying with Node.js.
 - [chalk](https://github.com/chalk/chalk) - 🖍 Terminal string styling done right
 - [jimp](https://github.com/oliver-moran/jimp) - An image processing library written entirely in JavaScript for Node, with zero external or native dependencies.
+- [node-qrcode](https://github.com/soldair/node-qrcode) - qr code generator
 
 ## Go工具
 - [go-tools](https://github.com/Finb/go-tools) - tool of Bark.(Bark is an iOS App which allows you to push customed notifications to your iPhone)
