@@ -303,6 +303,7 @@ A progressive Node.js framework for building efficient and scalable server-side 
 - [react-router](https://github.com/ReactTraining/react-router) - Declarative routing for React
 - [react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [next.js](https://github.com/zeit/next.js) - The React Framework https://nextjs.org
+- [griffith](https://github.com/zhihu/griffith) - A React-based web video player https://codesandbox.io/embed/p03wm0o80
 ## video
 - [plyr](https://github.com/Selz/plyr) - A simple HTML5, YouTube and Vimeo player
 - [flv.js](https://github.com/Bilibili/flv.js) - HTML5 FLV Player
