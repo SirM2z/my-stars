@@ -110,6 +110,7 @@ A progressive Node.js framework for building efficient and scalable server-side 
 - [hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites. https://gohugo.io
 - [gatsby](https://github.com/gatsbyjs/gatsby) - Build blazing fast, modern apps and websites with React https://www.gatsbyjs.org
 - [nestx](https://github.com/vellengs/nestx) - A full stack infrastructure base on nest. http://typerx.top/
+- [nodepress](https://github.com/surmon-china/nodepress) - 😎 A RESTful api server application for Blog/CMS using @nestjs https://api.surmon.me
 ## Git
 - [gitignore.io](https://github.com/joeblau/gitignore.io) - Create useful .gitignore files for your project https://gitignore.io
 ## Doc
