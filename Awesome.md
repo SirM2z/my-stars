@@ -8,7 +8,7 @@
 - [AST](#AST)
 - [算法](#算法)
 - [安全](#安全)
-- [C++工具](#C%2B%2B工具)
+- [C++工具](#CPlusPlus工具)
 - [Nodejs工具](#Nodejs工具)
 - [Go工具](#Go工具)
 - [Python工具](#Python工具)
@@ -60,7 +60,7 @@
 ## 安全
 - [Micro8](https://github.com/Micropoor/Micro8) - Gitbook https://micro8.gitbook.io/micro8/
 
-## C++工具
+## <a name="CPlusPlus工具">C++工具</a>
 - [wkhtmltopdf](https://github.com/wkhtmltopdf/wkhtmltopdf) - Convert HTML to PDF using Webkit (QtWebKit) https://wkhtmltopdf.org
 
 ## Nodejs工具
