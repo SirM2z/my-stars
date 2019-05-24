@@ -4,11 +4,11 @@
 
 ## Contents
 
-- [TC39](#tc39)
-- [AST](#ast)
+- [TC39](#TC39)
+- [AST](#AST)
 - [算法](#算法)
 - [安全](#安全)
-- [C++工具](#C++工具)
+- [C++工具](#C工具)
 - [Nodejs工具](#Nodejs工具)
 - [Go工具](#Go工具)
 - [Python工具](#Python工具)
@@ -60,7 +60,7 @@
 ## 安全
 - [Micro8](https://github.com/Micropoor/Micro8) - Gitbook https://micro8.gitbook.io/micro8/
 
-## C++工具
+## C工具
 - [wkhtmltopdf](https://github.com/wkhtmltopdf/wkhtmltopdf) - Convert HTML to PDF using Webkit (QtWebKit) https://wkhtmltopdf.org
 
 ## Nodejs工具
@@ -102,7 +102,6 @@
 - [py-futu-api](https://github.com/FutunnOpen/py-futu-api) - 富途量化交易API https://futunnopen.github.io/futu-api-doc/intro/intro.html
 
 ## PHP工具
-- [url2pdf](https://github.com/easychen/url2pdf) - url2pdf docker image based on wkhtmltopdf with Chinese support.
 
 ## Web框架
 - [nest](https://github.com/nestjs/nest) - 
