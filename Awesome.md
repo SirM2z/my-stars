@@ -119,7 +119,7 @@ A progressive Node.js framework for building efficient and scalable server-side 
 - [hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
 - [thinkjs](https://github.com/thinkjs/thinkjs) - Use full ES2015+ features to develop Node.js applications http://www.thinkjs.org/
 - [best-resume-ever](https://github.com/salomonelli/best-resume-ever) - 👔 💼 Build fast 🚀 and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.https://salomonelli.github.io/best-resume-ever/#/
-- [vuepress](https://github.com/vuejs/vuepress) - Minimalistic Vue-powered static site generator https://vuepress.vuejs.org/
+- [vuepress](https://github.com/vuejs/vuepress) - 📝 Minimalistic Vue-powered static site generator https://v1.vuepress.vuejs.org
 - [hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites. https://gohugo.io
 - [gatsby](https://github.com/gatsbyjs/gatsby) - Build blazing fast, modern apps and websites with React https://www.gatsbyjs.org
 - [nestx](https://github.com/vellengs/nestx) - A full stack infrastructure base on nest. http://typerx.top/
