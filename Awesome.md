@@ -187,6 +187,7 @@ A progressive Node.js framework for building efficient and scalable server-side 
 - [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - Next Generation of ShadowsocksX
 - [kcptun_gclient](https://github.com/dfdragon/kcptun_gclient) - GUI for KCPTun windows client
 - [kcptun_xclient](https://github.com/dfdragon/kcptun_xclient) - GUI for KCPTun osx client
+- [doubi](https://github.com/ToyoDAdoubi/doubi) - 一个逗比写的各种逗比脚本~
 
 ## JS工具
 - [intro.js](https://github.com/usablica/intro.js) - A better way for new feature introduction and step-by-step users guide for your website and project.
