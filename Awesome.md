@@ -280,6 +280,7 @@ A progressive Node.js framework for building efficient and scalable server-side 
 - [what-happens-when](https://github.com/alex/what-happens-when) - An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
 - [Nestjs-Learning](https://github.com/dzzzzzy/Nestjs-Learning) - nest.js 学习教程 📚，跟我一起学习 nest 框架~ 💪 (年后有惊喜 🎉)
 - [Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question) - 工作日每天一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。
+- [nest-cn-community/about](https://github.com/nest-cn-community/about) - nestjs 框架中国开发者社区介绍
 
 ## Vue
 - [vue-infinite-loading](https://github.com/PeachScript/vue-infinite-loading) - An infinite scroll plugin for Vue.js 1.0 & Vue.js 2.0.
