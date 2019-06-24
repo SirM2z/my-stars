@@ -236,6 +236,7 @@ A progressive Node.js framework for building efficient and scalable server-side 
 - [vConsole](https://github.com/Tencent/vConsole) A lightweight, extendable front-end developer tool for mobile web page.
 - [uppy](https://github.com/transloadit/uppy) The next open source file uploader for web browsers 🐶 https://uppy.io
 - [hanzi-writer](https://github.com/chanind/hanzi-writer) - Chinese character stroke order animations and practice quizzes https://chanind.github.io/hanzi-writer
+- [grade](https://github.com/benhowdle89/grade) - This JavaScript library produces complementary gradients generated from the top 2 dominant colours in supplied images. https://benhowdle89.github.io/grade/
 
 ## Ajax
 - [unfetch](https://github.com/developit/unfetch) - 🐶 Bare minimum fetch polyfill in 500 bytes.
