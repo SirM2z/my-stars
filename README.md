@@ -2,7 +2,7 @@
 
 > A collection of my GitHub stars!
 
-- Programming Languages
+## Content
 
 - [TC39](#TC39)
 - [AST](#AST)
