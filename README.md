@@ -92,6 +92,7 @@
 - [chalk](https://github.com/chalk/chalk) - 🖍 Terminal string styling done right
 - [jimp](https://github.com/oliver-moran/jimp) - An image processing library written entirely in JavaScript for Node, with zero external or native dependencies.
 - [node-wkhtmltopdf](https://github.com/devongovett/node-wkhtmltopdf) - A wrapper for the wkhtmltopdf HTML to PDF converter using WebKit
+- [sitemap.js](https://github.com/ekalinin/sitemap.js) - Sitemap-generating framework for node.js
 
 ## Go工具
 - [go-tools](https://github.com/Finb/go-tools) - tool of Bark.(Bark is an iOS App which allows you to push customed notifications to your iPhone)
