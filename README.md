@@ -340,6 +340,7 @@ A progressive Node.js framework for building efficient and scalable server-side 
 - [react-boilerplate](https://github.com/react-boilerplate/react-boilerplate) - :fire: A highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices.
 - [redux](https://github.com/reactjs/redux) - Predictable state container for JavaScript apps
 - [ant-design](https://github.com/ant-design/ant-design) - 🐜 A UI Design Language
+- [material-ui](https://github.com/mui-org/material-ui) - React components for faster and easier web development. Build your own design system, or start with Material Design. https://material-ui.com/
 - [react-virtualized](https://github.com/bvaughn/react-virtualized) - React components for efficiently rendering large lists and tabular data
 - [awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem.
 - [react-ui](https://github.com/Lobos/react-ui) - A collection of components for React, base on bootstrap 4.0. 
