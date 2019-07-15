@@ -93,6 +93,7 @@
 - [jimp](https://github.com/oliver-moran/jimp) - An image processing library written entirely in JavaScript for Node, with zero external or native dependencies.
 - [node-wkhtmltopdf](https://github.com/devongovett/node-wkhtmltopdf) - A wrapper for the wkhtmltopdf HTML to PDF converter using WebKit
 - [sitemap.js](https://github.com/ekalinin/sitemap.js) - Sitemap-generating framework for node.js
+- [identicon.js](https://github.com/stewartlord/identicon.js) - GitHub-style identicons as PNGs or SVGs in JS
 
 ## Go工具
 - [go-tools](https://github.com/Finb/go-tools) - tool of Bark.(Bark is an iOS App which allows you to push customed notifications to your iPhone)
