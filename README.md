@@ -206,6 +206,9 @@ A progressive Node.js framework for building efficient and scalable server-side 
 - [kcptun_gclient](https://github.com/dfdragon/kcptun_gclient) - GUI for KCPTun windows client
 - [kcptun_xclient](https://github.com/dfdragon/kcptun_xclient) - GUI for KCPTun osx client
 - [doubi](https://github.com/ToyoDAdoubi/doubi) - 一个逗比写的各种逗比脚本~
+- [clash](https://github.com/Dreamacro/clash) - A rule-based tunnel in Go.
+- [clashX](https://github.com/yichengchen/clashX) - A rule based custom proxy with GUI for Mac base on clash.
+- [clash_for_windows_pkg](https://github.com/Fndroid/clash_for_windows_pkg) - A Windows GUI based on Clash
 
 ## JS工具
 - [intro.js](https://github.com/usablica/intro.js) - A better way for new feature introduction and step-by-step users guide for your website and project.
