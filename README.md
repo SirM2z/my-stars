@@ -82,7 +82,7 @@
 - [ws](https://github.com/websockets/ws) - Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js
 - [pm2](https://github.com/Unitech/pm2) - Production process manager for Node.js apps with a built-in load balancer.
 - [zhihuspider](https://github.com/atonasting/zhihuspider) - 网站「看知乎」的爬虫
-- [puppeteer](https://github.com/GoogleChrome/puppeteer) - Headless Chrome Node API
+- [puppeteer](https://github.com/GoogleChrome/puppeteer) - Headless Chrome Node API https://pptr.dev
 - [face-api.js](https://github.com/justadudewhohacks/face-api.js) - JavaScript API for face detection and face recognition in the browser with tensorflow.js
 - [js-xlsx](https://github.com/SheetJS/js-xlsx) - 📗 SheetJS Community Edition -- Spreadsheet Parser and Writer https://sheetjs.com/
 - [RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 万物皆可 RSS https://docs.rsshub.app
