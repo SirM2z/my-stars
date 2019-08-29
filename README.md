@@ -404,6 +404,7 @@ A progressive Node.js framework for building efficient and scalable server-side 
 - [f2](https://github.com/antvis/f2) - 基于 HTML5 Canvas，开箱即用的移动端可视化解决方案 https://antvis.github.io/f2/
 - [Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the <canvas> tag http://www.chartjs.org/
 - [three.js](https://github.com/mrdoob/three.js) - JavaScript 3D library. https://threejs.org/
+- [mxgraph](https://github.com/jgraph/mxgraph) - mxGraph is a fully client side JavaScript diagramming library https://www.draw.io/
 
 ## CSS工具
 - [autoprefixer](https://github.com/postcss/autoprefixer) -  Parse CSS and add vendor prefixes to rules by Can I Use
