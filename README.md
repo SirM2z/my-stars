@@ -354,6 +354,7 @@ A progressive Node.js framework for building efficient and scalable server-side 
 - [griffith](https://github.com/zhihu/griffith) - A React-based web video player https://codesandbox.io/embed/p03wm0o80
 - [ice](https://github.com/alibaba/ice) - 🚀Make Front-end development simple and friendly（让前端开发简单而友好 ） https://ice.work/
 - [ant-design-pro](https://github.com/ant-design/ant-design-pro) - 👻🎃 An out-of-box UI solution for enterprise applications http://pro.ant.design/
+- [react-use](https://github.com/streamich/react-use) - React Hooks — 👍 http://streamich.github.io/react-use
 
 ## Video
 - [plyr](https://github.com/Selz/plyr) - A simple HTML5, YouTube and Vimeo player
