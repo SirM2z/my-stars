@@ -250,10 +250,11 @@ A progressive Node.js framework for building efficient and scalable server-side 
 - [lodash](https://github.com/lodash/lodash) - A modern JavaScript utility library delivering modularity, performance, & extras. https://lodash.com/
 - [mathjs](https://github.com/josdejong/mathjs) - An extensive math library for JavaScript and Node.js http://mathjs.org
 - [ChinaMobilePhoneNumberRegex](https://github.com/VincentSit/ChinaMobilePhoneNumberRegex) - Regular expressions that match the mobile phone number in mainland China. / 一组匹配中国大陆手机号码的正则表达式。
-- [vConsole](https://github.com/Tencent/vConsole) A lightweight, extendable front-end developer tool for mobile web page.
 - [uppy](https://github.com/transloadit/uppy) The next open source file uploader for web browsers 🐶 https://uppy.io
 - [hanzi-writer](https://github.com/chanind/hanzi-writer) - Chinese character stroke order animations and practice quizzes https://chanind.github.io/hanzi-writer
 - [grade](https://github.com/benhowdle89/grade) - This JavaScript library produces complementary gradients generated from the top 2 dominant colours in supplied images. https://benhowdle89.github.io/grade/
+- [vConsole](https://github.com/Tencent/vConsole) A lightweight, extendable front-end developer tool for mobile web page.
+- [eruda](https://github.com/liriliri/eruda) - Console for mobile browsers https://eruda.liriliri.io/
 
 ## Ajax
 - [unfetch](https://github.com/developit/unfetch) - 🐶 Bare minimum fetch polyfill in 500 bytes.
