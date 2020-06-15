@@ -13,6 +13,7 @@
 - [Go工具](#Go工具)
 - [Python工具](#Python工具)
 - [PHP工具](#PHP工具)
+- [深度学习](#深度学习)
 - [Web 后端框架](#WebAppFramework)
 - [Web 后端实现](#WebAppFrameworkDemo)
 - [简历](#简历)
@@ -117,6 +118,15 @@ A progressive Node.js framework for building efficient and scalable server-side 
 - [thinkjs](https://github.com/thinkjs/thinkjs) - Use full ES2015+ features to develop Node.js applications http://www.thinkjs.org/
 - [hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites. https://gohugo.io
 - [gatsby](https://github.com/gatsbyjs/gatsby) - Build blazing fast, modern apps and websites with React https://www.gatsbyjs.org
+
+## 深度学习
+- [protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format https://developers.google.com/protocol-buffers/
+- [protobuf.js](https://github.com/protobufjs/protobuf.js) - Protocol Buffers for JavaScript (& TypeScript).
+- [tfjs](https://github.com/tensorflow/tfjs) - A WebGL accelerated JavaScript library for training and deploying ML models. https://js.tensorflow.org
+- [tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone https://tensorflow.org
+- [faceai](https://github.com/vipstone/faceai) - 一款入门级的人脸、视频、文字检测以及识别的项目.
+- [tfrecord](https://github.com/pwnall/tfrecord) - Reader and writer for the TensorFlow Record file format
+
 
 ## <a name="WebAppFrameworkDemo">Web 后端实现</a>
 - [firekylin](https://github.com/firekylin/firekylin) - A Simple & Fast Node.js Blogging Platform Base On ThinkJS & React & ES2015+
@@ -424,6 +434,7 @@ A progressive Node.js framework for building efficient and scalable server-side 
 - [GB2260](https://github.com/cn/GB2260) - 中华人民共和国国家标准 GB/T 2260 行政区划代码
 - [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - 最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。 http://shici.store
 - [Enterprise-Registration-Data-of-Chinese-Mainland](https://github.com/imhuster/Enterprise-Registration-Data-of-Chinese-Mainland) - 中国大陆 31 个省份1978 年至 2019 年一千多万工商企业注册信息，包含企业名称、注册地址、统一社会信用代码、地区、注册日期、经营范围、法人代表、注册资金、企业类型等详细资料。This repository is an dataset of over 10,000,000 enterprise registration data of 31 provinces in Chinese mainland from 1978 to 2019.【工商大数据】、【企业信息】、【enterprise registration data】。
+- [public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs for use in software and web development. https://ultimatecourses.com
 
 ## Linux
 - [iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 150 terminal color schemes/themes for iTerm/iTerm2 (with ports to Terminal, Konsole, PuTTY, Xresources, XRDB, and Terminator)
